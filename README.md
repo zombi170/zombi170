@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zombi170, in real real world known as Zsombor Ádám
-- 🌱 I’m currently studying at BME in Budapest as an IT engineer.
+- 🌱 I’m currently studying at BME in Budapest as a Computer Science major.
 - 📫 How to reach me zsombor923@gmail.com
