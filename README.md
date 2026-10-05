@@ -19,6 +19,21 @@
 
 ---
 
+### 🗂️ Core Technical Repositories
+
+Explore the modular portfolios showcasing my work across computer vision, sequential data, and tabular machine learning:
+
+- 👁️ **[Vision & Spatial AI Pipeline](link-to-repo)** | *PyTorch, Torchvision, OpenCV, MediaPipe, OpenFace*  
+  A collection of deep learning and computer vision projects focusing on custom CNN architectures, real-time hand/facial tracking, YOLO11n object detection, and ResNet/LSTM image captioning.
+
+- 🗣️ **[Sequential Data: Audio & NLP Processing](link-to-repo)** | *TensorFlow/Keras, openSMILE, spaCy, Pandas*  
+  Data engineering and machine learning pipelines handling human-generated sequential data, featuring openSMILE eGeMAPSv02 acoustic feature extraction and LSTM-based sentiment analysis with GloVe embeddings.
+
+- 📊 **[Tabular Data Science](link-to-repo)** | *Scikit-Learn, Pandas, Seaborn, NumPy*  
+  Robust data science pipelines for structured tabular data, featuring network traffic anomaly detection (PCA and multi-class mapping) and advanced feature engineering for Titanic survival prediction.
+
+---
+
 ### 🚀 What I'm Currently Up To
 
 **In the Classroom & The Office**
