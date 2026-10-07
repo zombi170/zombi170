@@ -15,7 +15,7 @@
 - 🎯 **The Ultimate Goal:** To found my own startup in the HealthTech domain and build something that creates a genuine, net-positive value for the world.
 - ☕ **My Element:** I thrive on the grind. You'll usually find me coding, strategizing, and networking with fellow entrepreneurs in local coffee shops. 
 - 🤝 **Collaboration:** I'm always open to collaborating on exciting side projects, AI innovations, or hackathons when time permits. Let's connect!
-- 📫 **Reach out at:** [zsombor@csadam.hu](mailto:zsombor@csadam.hu)
+- 📫 **Reach out at:** [zsombor@csadam.hu](mailto:zsombor@csadam.hu) or [LinkedIn](https://linkedin.com/in/zombi170)
 
 ---
 
