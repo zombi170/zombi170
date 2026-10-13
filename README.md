@@ -3,7 +3,7 @@
   <h1>Hi there! I'm Zsombor Ádám</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Postgrad+in+AI+%40+EIT+Master+School;Medior+Java+Developer;Building+Tech+for+Net+Positive+Impact;Based+in+Madrid+🇪🇸;Coffee+Shop+Coder+%26+Entrepreneur+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Postgrad+in+AI+%40+28Digital+Master+School;Medior+Java+Developer;Building+Tech+for+Net+Positive+Impact;Based+in+Madrid+🇪🇸;Coffee+Shop+Coder+%26+Entrepreneur+☕" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,7 +37,7 @@ Explore the modular portfolios showcasing my work across computer vision, sequen
 ### 🚀 What I'm Currently Up To
 
 **In the Classroom & The Office**
-*   🎓 Deep diving into **Artificial Intelligence & Affective Computing** at the EIT Master School (ELTE 🇭🇺 + UPM 🇪🇸).
+*   🎓 Deep diving into **Artificial Intelligence & Affective Computing** at the 28Digital Master School (ELTE 🇭🇺 + UPM 🇪🇸).
 *   💼 Engineering robust backend solutions as a **Medior Java Developer**.
 
 **In the Lab (Side Projects)**
